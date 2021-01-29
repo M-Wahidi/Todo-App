@@ -64,7 +64,7 @@ body {
   align-items: center;
   position: relative;
   top: 3px;
-  left: 122px;
+  left: 115px;
   opacity: 0.6;
   pointer-events: none;
 }
@@ -151,8 +151,10 @@ select {
   transform: translateX(100px);
 }
 .deleteButton {
+  width: 30px;
+  height: 29px;
+  border-radius: 5px;
   background-color: brown;
-  height: 30px;
   position: absolute;
   right: 0px;
   width: 30px;
