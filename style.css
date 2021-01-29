@@ -156,17 +156,19 @@ select {
   position: absolute;
   right: 0px;
   width: 30px;
+  text-shadow: 1px 3px #333;
   border-radius: 4px;
   cursor: pointer;
-  font-size: 1.5em;
+  font-size: 1.2em;
   font-family: sans-serif;
   transition: all 0.1 ease-in-out;
   color: aliceblue;
-  line-height: 50%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
 }
 .deleteButton:hover {
   opacity: 0.8;
-  font-size: 30px;
 }
 .completediv {
   opacity: 0.5;
