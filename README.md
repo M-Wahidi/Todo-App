@@ -1,6 +1,6 @@
 # Todo-App
 
-#### Simple Todo App with HTML,CSS,Viniila Javascipt
+### Simple Todo App with HTML,CSS,Viniila Javascipt
 
 #### Fetures
 
